@@ -2,7 +2,7 @@
     {
         "Author": "Akira0245",
         "Name": "MidiBard",
-        "Description": "",
+        "Description": "\u4f7f\u7528midi\u6587\u4ef6\u6765\u8fdb\u884c\u8bd7\u4eba\u6f14\u594f\u3002 /mbard \u6253\u5f00\u6f14\u594f\u63a7\u5236\u7a97\u53e3\u3002",
         "InternalName": "MidiBard",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "",
@@ -13,12 +13,12 @@
             "akira0245"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MidiBard/latest.zip",
+        "DownloadLinkInstall": "https://https://raw.fastgit.org/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/plugins/MidiBard/latest.zip",
+        "DownloadLinkTesting": "https://https://raw.fastgit.org/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://https://raw.fastgit.org/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619599146"
+        "LastUpdated": "1619599873"
     }
 ]
