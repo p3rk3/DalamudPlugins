@@ -1,9 +1,3 @@
-# Dalamud plugin repository
-
-该存储库托管国服 [Dalamud](https://github.com/Bluefissure/Dalamud) 的插件二进制文件和更新。
-
-This repository hosts plugin binaries and update definitions for [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) for CN only.
-
 ## Making a plugin
 
 Please see the [API documentation](https://goatcorp.github.io/Dalamud/api/index.html) for information about creating plugins.
