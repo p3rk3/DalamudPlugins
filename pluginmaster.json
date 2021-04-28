@@ -13,12 +13,12 @@
             "akira0245"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://raw.fastgit.org/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.fastgit.org/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://raw.fastgit.org/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1619600080"
+        "LastUpdated": "1619600312"
     }
 ]
