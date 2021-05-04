@@ -2,7 +2,7 @@
     {
         "Author": "akira0245",
         "Name": "EasyZoom",
-        "Description": "",
+        "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
         "InternalName": "EasyZoom",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "",
