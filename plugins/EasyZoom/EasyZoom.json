@@ -1,0 +1,15 @@
+{
+  "Author": "akira0245",
+  "Name": "EasyZoom",
+  "InternalName": "EasyZoom",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "easy zoom unlock and fov control.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "zoom",
+    "akira0245"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
