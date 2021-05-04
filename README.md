@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/akira0245/DalamudPlugins/cn/pluginmaster.json
+
+https://raw.fastgit.org/akira0245/DalamudPlugins/cn/pluginmaster.json
+
 ## Making a plugin
 
 Please see the [API documentation](https://goatcorp.github.io/Dalamud/api/index.html) for information about creating plugins.
