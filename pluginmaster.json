@@ -2,7 +2,7 @@
     {
         "Author": "akira0245",
         "Name": "EasyZoom",
-        "Description": "",
+        "Description": "\u7b80\u5355\u7684\u89c6\u8ddd\u89e3\u9501\u548c\u89c6\u89d2\u63a7\u5236\u3002",
         "InternalName": "EasyZoom",
         "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "",
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620134780"
+        "LastUpdated": "1620135117"
     },
     {
         "Author": "Akira0245",
@@ -40,6 +40,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620134780"
+        "LastUpdated": "1620135117"
     }
 ]
