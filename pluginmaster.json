@@ -4,7 +4,7 @@
         "Name": "MidiBard",
         "Description": "\u4f7f\u7528midi\u6587\u4ef6\u6765\u8fdb\u884c\u8bd7\u4eba\u6f14\u594f\u3002 /mbard \u6253\u5f00\u6f14\u594f\u63a7\u5236\u7a97\u53e3\u3002",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.1.0.1",
+        "AssemblyVersion": "1.1.0.2",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620446424"
+        "LastUpdated": "1620474311"
     },
     {
         "Author": "akira0245",
@@ -40,6 +40,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620446424"
+        "LastUpdated": "1620474311"
     }
 ]
