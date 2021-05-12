@@ -4,7 +4,7 @@
         "Name": "MidiBard",
         "Description": "Bard Performance using midi files.",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.2.1.0",
+        "AssemblyVersion": "1.3.0.0",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620722007"
+        "LastUpdated": "1620858737"
     },
     {
         "Author": "akira0245",
@@ -40,6 +40,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620722007"
+        "LastUpdated": "1620858737"
     }
 ]
