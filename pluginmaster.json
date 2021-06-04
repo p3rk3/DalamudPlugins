@@ -4,13 +4,14 @@
         "Name": "MidiBard",
         "Description": "Bard Performance using midi files.",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.4.1.0",
+        "AssemblyVersion": "1.5.0.0",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
-            "Bard",
-            "Midi",
-            "akira0245"
+            "bard",
+            "midi",
+            "akira0245",
+            "akira"
         ],
         "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
@@ -19,19 +20,21 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622439947"
+        "LastUpdated": "1622786873"
     },
     {
         "Author": "akira0245",
         "Name": "EasyZoom",
         "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
         "InternalName": "EasyZoom",
-        "AssemblyVersion": "1.0.2.2",
+        "AssemblyVersion": "1.0.2.3",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
             "zoom",
-            "akira0245"
+            "fov",
+            "akira0245",
+            "akira"
         ],
         "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
@@ -40,6 +43,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622439947"
+        "LastUpdated": "1622786873"
     }
 ]
