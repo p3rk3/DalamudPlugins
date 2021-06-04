@@ -2,13 +2,15 @@
   "Author": "akira0245",
   "Name": "EasyZoom",
   "InternalName": "EasyZoom",
-  "AssemblyVersion": "1.0.2.2",
+  "AssemblyVersion": "1.0.2.3",
   "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "Tags": [
     "zoom",
-    "akira0245"
+    "fov",
+    "akira0245",
+    "akira",
   ],
   "DalamudApiLevel": 3,
   "LoadPriority": 0
