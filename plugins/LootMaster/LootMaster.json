@@ -1,0 +1,17 @@
+{
+  "Author": "akira0245",
+  "Name": "LootMaster",
+  "InternalName": "LootMaster",
+  "AssemblyVersion": "1.0.0.3",
+  "Description": "Use text command to roll loots.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "akira",
+    "akira0245",
+    "loot",
+    "roll"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}

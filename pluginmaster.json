@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622789524"
+        "LastUpdated": "1623497188"
     },
     {
         "Author": "akira0245",
@@ -43,6 +43,29 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622789524"
+        "LastUpdated": "1623497188"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "LootMaster",
+        "Description": "Use text command to roll loots.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "akira0245",
+            "loot",
+            "roll"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1623497188"
     }
 ]
