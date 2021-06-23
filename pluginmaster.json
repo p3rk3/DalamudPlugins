@@ -1,26 +1,26 @@
 [
     {
         "Author": "akira0245",
-        "Name": "MidiBard",
-        "Description": "Bard Performance using midi files.",
-        "InternalName": "MidiBard",
-        "AssemblyVersion": "1.5.0.1",
-        "RepoUrl": "https://github.com/akira0245/MidiBard",
+        "Name": "LootMaster",
+        "Description": "Use text command to roll loots.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
-            "bard",
-            "midi",
+            "akira",
             "akira0245",
-            "akira"
+            "loot",
+            "roll"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1623616386"
+        "LastUpdated": "1624467000"
     },
     {
         "Author": "akira0245",
@@ -43,29 +43,29 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1623616386"
+        "LastUpdated": "1624467000"
     },
     {
         "Author": "akira0245",
-        "Name": "LootMaster",
-        "Description": "Use text command to roll loots.",
-        "InternalName": "LootMaster",
-        "AssemblyVersion": "1.0.0.3",
-        "RepoUrl": "",
+        "Name": "MidiBard",
+        "Description": "Bard Performance using midi files.",
+        "InternalName": "MidiBard",
+        "AssemblyVersion": "1.5.0.1",
+        "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
-            "akira",
+            "bard",
+            "midi",
             "akira0245",
-            "loot",
-            "roll"
+            "akira"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1623616386"
+        "LastUpdated": "1624467000"
     }
 ]

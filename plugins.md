@@ -5,6 +5,6 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
-| MidiBard | akira0245 | Bard Performance using midi files. |
-| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
 | LootMaster | akira0245 | Use text command to roll loots. |
+| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
+| MidiBard | akira0245 | Bard Performance using midi files. |
