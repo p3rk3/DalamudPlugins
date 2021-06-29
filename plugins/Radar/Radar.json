@@ -1,0 +1,18 @@
+{
+  "Author": "akira0245",
+  "Name": "Radar",
+  "InternalName": "Radar",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "2D/3D game object overlay and external map.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "hunt",
+    "overlay",
+    "radar",
+    "akira0245",
+    "akira"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
