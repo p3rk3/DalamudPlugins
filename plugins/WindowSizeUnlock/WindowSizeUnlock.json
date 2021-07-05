@@ -1,0 +1,15 @@
+{
+  "Author": "akira0245",
+  "Name": "WindowSizeUnlock",
+  "InternalName": "WindowSizeUnlock",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Unlock minimum game window size",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "akira0245",
+    "akira"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}

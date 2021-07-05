@@ -69,7 +69,7 @@ def extract_manifests():
         for manifest in manifests:
             desc = manifest.get('Description')
             if desc and desc not in translations:
-                translations[desc] = ""
+                translations[desc] = desc
     with codecs.open("translations.json", "w", "utf-8") as f:
         json.dump(translations, f, indent=4)
 
