@@ -1,6 +1,27 @@
 [
     {
         "Author": "akira0245",
+        "Name": "WindowSizeUnlock",
+        "Description": "\u89e3\u9501\u6e38\u620f\u6700\u5c0f\u7a97\u53e3\u5c3a\u5bf8\u9650\u5236",
+        "InternalName": "WindowSizeUnlock",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira0245",
+            "akira"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1625449451"
+    },
+    {
+        "Author": "akira0245",
         "Name": "Radar",
         "Description": "2D/3D game object overlay and external map.",
         "InternalName": "Radar",
@@ -21,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625449280"
+        "LastUpdated": "1625449451"
     },
     {
         "Author": "akira0245",
@@ -44,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625449280"
+        "LastUpdated": "1625449451"
     },
     {
         "Author": "akira0245",
@@ -67,7 +88,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625449280"
+        "LastUpdated": "1625449451"
     },
     {
         "Author": "akira0245",
@@ -90,6 +111,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625449280"
+        "LastUpdated": "1625449451"
     }
 ]

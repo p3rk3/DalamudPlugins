@@ -5,6 +5,7 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
+| WindowSizeUnlock | akira0245 | 解锁游戏最小窗口尺寸限制 |
 | Radar | akira0245 | 2D/3D game object overlay and external map. |
 | LootMaster | akira0245 | Use text command to roll loots. |
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
