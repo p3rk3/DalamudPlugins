@@ -1,3 +1,7 @@
 {
-    "Unlock minimum game window size": "解锁游戏最小窗口尺寸限制"
+    "Unlock minimum game window size": "\u89e3\u9501\u6e38\u620f\u6700\u5c0f\u7a97\u53e3\u5c3a\u5bf8\u9650\u5236",
+    "2D/3D game object overlay and external map.": "2D/3D game object overlay and external map.",
+    "Use text command to roll loots.": "Use text command to roll loots.",
+    "Easy zoom distance unlock and fov control. /ezoom to open config panel": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
+    "Bard Performance using midi files.": "Bard Performance using midi files."
 }
