@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "Radar",
   "InternalName": "Radar",
-  "AssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "2D/3D game object overlay and external map.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
