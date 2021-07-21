@@ -18,14 +18,14 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626808963"
+        "LastUpdated": "1626905051"
     },
     {
         "Author": "akira0245",
         "Name": "Radar",
         "Description": "2D/3D game object overlay and external map.",
         "InternalName": "Radar",
-        "AssemblyVersion": "1.2.0.0",
+        "AssemblyVersion": "1.2.1.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626808963"
+        "LastUpdated": "1626905051"
     },
     {
         "Author": "akira0245",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626808963"
+        "LastUpdated": "1626905051"
     },
     {
         "Author": "akira0245",
@@ -88,7 +88,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626808963"
+        "LastUpdated": "1626905051"
     },
     {
         "Author": "akira0245",
@@ -111,6 +111,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626808963"
+        "LastUpdated": "1626905051"
     }
 ]
