@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.5.0.1",
+  "AssemblyVersion": "1.5.0.2",
   "Description": "Bard Performance using midi files.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/MidiBard",
