@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "WindowSizeUnlock",
   "InternalName": "WindowSizeUnlock",
-  "AssemblyVersion": "1.0.0.4",
+  "AssemblyVersion": "1.0.0.5",
   "Description": "Unlock minimum game window size",
   "ApplicableVersion": "any",
   "RepoUrl": "",
