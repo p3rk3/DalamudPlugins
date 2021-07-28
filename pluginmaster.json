@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627506369"
+        "LastUpdated": "1627507258"
     },
     {
         "Author": "akira0245",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627506369"
+        "LastUpdated": "1627507258"
     },
     {
         "Author": "akira0245",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627506369"
+        "LastUpdated": "1627507258"
     },
     {
         "Author": "akira0245",
@@ -88,14 +88,14 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627506369"
+        "LastUpdated": "1627507258"
     },
     {
         "Author": "akira0245",
         "Name": "MidiBard",
         "Description": "Bard Performance using midi files.",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.5.1.0",
+        "AssemblyVersion": "1.5.1.1",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
@@ -111,6 +111,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1627506369"
+        "LastUpdated": "1627507258"
     }
 ]
