@@ -6,6 +6,7 @@
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
 | Reset dummy enmity command | akira0245 | A text command for reset target striking dummy enmity. |
+| SmartCast | akira0245 | 以智能施法的方式使用地面目标技能。 |
 | LootMaster | akira0245 | Use text command to roll loots. |
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
 | MidiBard | akira0245 | Bard Performance using midi files. |
