@@ -2,8 +2,8 @@
   "Author": "akira0245",
   "Name": "SmartCast",
   "InternalName": "SmartCast",
-  "AssemblyVersion": "0.0.0.1",
-  "Description": "以智能施法的方式使用地面目标技能。",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "使用类似智能施法的方式施放地面目标技能。",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "Tags": [
