@@ -2,8 +2,8 @@
   "Author": "akira0245",
   "Name": "Radar",
   "InternalName": "Radar",
-  "AssemblyVersion": "1.4.1.2",
-  "Description": "2D/3D game object overlay and external map.",
+  "AssemblyVersion": "1.4.2.0",
+  "Description": "在屏幕和游戏地图上显示游戏实体的位置。",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "Tags": [
