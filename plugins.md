@@ -11,4 +11,4 @@
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
 | MidiBard | akira0245 | Bard Performance using midi files. |
 | WindowSizeUnlock | akira0245 | 解锁游戏最小窗口尺寸限制 |
-| Radar | akira0245 | 2D/3D game object overlay and external map. |
+| Radar | akira0245 | 在屏幕和游戏地图上显示游戏实体的位置。 |
