@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "Radar",
   "InternalName": "Radar",
-  "AssemblyVersion": "1.4.2.1",
+  "AssemblyVersion": "1.4.2.2",
   "Description": "在屏幕和游戏地图上显示游戏实体的位置。",
   "ApplicableVersion": "any",
   "RepoUrl": "",
