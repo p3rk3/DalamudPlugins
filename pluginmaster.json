@@ -14,14 +14,14 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Reset dummy enmity command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Reset dummy enmity command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     },
     {
         "Author": "akira0245",
         "Name": "SmartCast",
         "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\u3002",
         "InternalName": "SmartCast",
-        "AssemblyVersion": "0.0.0.4",
+        "AssemblyVersion": "0.0.0.5",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     },
     {
         "Author": "akira0245",
@@ -58,7 +58,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     },
     {
         "Author": "akira0245",
@@ -81,7 +81,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     },
     {
         "Author": "akira0245",
@@ -104,7 +104,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     },
     {
         "Author": "akira0245",
@@ -125,7 +125,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     },
     {
         "Author": "akira0245",
@@ -149,6 +149,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629095120"
+        "LastUpdated": "1629159906"
     }
 ]
