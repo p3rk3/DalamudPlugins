@@ -2,8 +2,8 @@
   "Author": "akira0245",
   "Name": "SmartCast",
   "InternalName": "SmartCast",
-  "AssemblyVersion": "0.0.0.8",
-  "Description": "使用类似智能施法的方式施放地面目标技能，并将技能宏插入技能队列中。",
+  "AssemblyVersion": "0.0.0.9",
+  "Description": "使用类似智能施法的方式施放地面目标技能，并将技能宏插入施法队列中。",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "Tags": [
