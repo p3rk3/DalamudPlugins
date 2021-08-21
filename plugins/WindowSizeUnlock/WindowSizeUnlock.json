@@ -3,7 +3,7 @@
   "Name": "WindowSizeUnlock",
   "InternalName": "WindowSizeUnlock",
   "AssemblyVersion": "1.0.0.5",
-  "Description": "Unlock minimum game window size",
+  "Description": "解锁游戏窗口最小尺寸限制。\nUnlock minimum game window size restriction.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "Tags": [
