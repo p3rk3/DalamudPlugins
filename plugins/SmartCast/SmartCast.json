@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "SmartCast",
   "InternalName": "SmartCast",
-  "AssemblyVersion": "0.0.1.2",
+  "AssemblyVersion": "0.0.1.3",
   "Description": "使用类似智能施法的方式施放地面目标技能，并将技能宏插入施法队列中。\nCast ground target action with 1 click, and put \"/ac\" commands/macro into action queue.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
