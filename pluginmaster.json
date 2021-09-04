@@ -1,52 +1,6 @@
 [
     {
         "Author": "akira0245",
-        "Name": "SmartCast",
-        "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\uff0c\u5e76\u5c06\u6280\u80fd\u5b8f\u63d2\u5165\u65bd\u6cd5\u961f\u5217\u4e2d\u3002\nCast ground target action with 1 click, and put \"/ac\" commands/macro into action queue.",
-        "InternalName": "SmartCast",
-        "AssemblyVersion": "0.0.0.13",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira0245",
-            "akira",
-            "macro",
-            "queue"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630033756"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "LootMaster",
-        "Description": "Use text command to roll loots.",
-        "InternalName": "LootMaster",
-        "AssemblyVersion": "1.0.1.4",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "akira0245",
-            "loot",
-            "roll"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630033756"
-    },
-    {
-        "Author": "akira0245",
         "Name": "EasyZoom",
         "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
         "InternalName": "EasyZoom",
@@ -66,7 +20,31 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630033756"
+        "LastUpdated": "1630754478"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "SmartCast",
+        "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\uff0c\u5e76\u5c06\u6280\u80fd\u5b8f\u63d2\u5165\u65bd\u6cd5\u961f\u5217\u4e2d\u3002\nCast ground target action with 1 click, and put \"/ac\" commands/macro into action queue.",
+        "InternalName": "SmartCast",
+        "AssemblyVersion": "0.0.1.1",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira0245",
+            "akira",
+            "macro",
+            "queue",
+            "mount"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1630754478"
     },
     {
         "Author": "akira0245",
@@ -89,7 +67,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630033756"
+        "LastUpdated": "1630754478"
     },
     {
         "Author": "akira0245",
@@ -110,7 +88,30 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630033756"
+        "LastUpdated": "1630754478"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "LootMaster",
+        "Description": "Use text command to roll loots.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "1.0.1.4",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "akira0245",
+            "loot",
+            "roll"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1630754478"
     },
     {
         "Author": "akira0245",
@@ -134,6 +135,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630033756"
+        "LastUpdated": "1630754478"
     }
 ]
