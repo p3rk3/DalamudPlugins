@@ -6,7 +6,8 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-DOWNLOAD_URL = 'https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/{plugin_name}/latest.zip'
+BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
+DOWNLOAD_URL = 'https://github.com/akira0245/DalamudPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -59,34 +60,18 @@ def extract_manifests():
     for dirpath, dirnames, filenames in os.walk('./plugins'):
         if len(filenames) == 0 or 'latest.zip' not in filenames:
             continue
-        plugin_name = dirpath.split('/')[-1].split('\\')[-1]
-        latest_json = f'{dirpath}/{plugin_name}.json'
-        with codecs.open(latest_json, "r", "utf-8") as f:
-            content = f.read()
-            if content.startswith(u'\ufeff'):
-                content = content.encode('utf8')[3:].decode('utf8')
-            manifests.append(json.loads(content))
+        plugin_name = dirpath.split('/')[-1]
+        latest_zip = f'{dirpath}/latest.zip'
+        with ZipFile(latest_zip) as z:
+            manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8-sig'))
+            manifests.append(manifest)
 
-    translations = {}
-    with codecs.open("translations.json", "r", "utf-8") as f:
-        translations = json.load(f)
-        for manifest in manifests:
-            desc = manifest.get('Description')
-            if desc and desc not in translations:
-                translations[desc] = desc
-    with codecs.open("translations.json", "w", "utf-8") as f:
-        json.dump(translations, f, indent=4)
-
-    for manifest in manifests:
-        desc = manifest.get('Description')
-        if desc in translations:
-            manifest['Description'] = translations[desc]
     return manifests
 
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
