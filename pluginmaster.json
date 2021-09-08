@@ -1,140 +1,26 @@
 [
     {
         "Author": "akira0245",
-        "Name": "EasyZoom",
-        "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
-        "InternalName": "EasyZoom",
-        "AssemblyVersion": "1.0.2.3",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "zoom",
-            "fov",
-            "akira0245",
-            "akira"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630793433"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "SmartCast",
-        "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\uff0c\u5e76\u5c06\u6280\u80fd\u5b8f\u63d2\u5165\u65bd\u6cd5\u961f\u5217\u4e2d\u3002\nCast ground target action with 1 click, and put \"/ac\" commands/macro into action queue.",
-        "InternalName": "SmartCast",
-        "AssemblyVersion": "0.0.1.3",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira0245",
-            "akira",
-            "macro",
-            "queue",
-            "mount"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630793433"
-    },
-    {
-        "Author": "akira0245",
         "Name": "MidiBard",
-        "Description": "Bard Performance using midi files.",
+        "Punchline": "Bard performance using midi files.",
+        "Description": "",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.5.1.1",
+        "AssemblyVersion": "1.6.0.0",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
-            "bard",
-            "midi",
-            "akira0245",
-            "akira"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630793433"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "WindowSizeUnlock",
-        "Description": "\u89e3\u9501\u6e38\u620f\u7a97\u53e3\u6700\u5c0f\u5c3a\u5bf8\u9650\u5236\u3002\nUnlock minimum game window size restriction.",
-        "InternalName": "WindowSizeUnlock",
-        "AssemblyVersion": "1.0.0.5",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira0245",
-            "akira"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630793433"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "LootMaster",
-        "Description": "Use text command to roll loots.",
-        "InternalName": "LootMaster",
-        "AssemblyVersion": "1.0.1.4",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
             "akira",
-            "akira0245",
-            "loot",
-            "roll"
+            "perform",
+            "instrument"
         ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630793433"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "Radar",
-        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplay the location of game objects on the screen and game map.",
-        "InternalName": "Radar",
-        "AssemblyVersion": "1.4.2.2",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hunt",
-            "overlay",
-            "radar",
-            "akira0245",
-            "akira"
-        ],
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1630793433"
+        "LastUpdated": "1631143598"
     }
 ]
