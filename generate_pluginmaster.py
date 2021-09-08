@@ -6,7 +6,7 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-DOWNLOAD_URL = 'https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -21,13 +21,17 @@ DUPLICATES = {
 TRIMMED_KEYS = [
     'Author',
     'Name',
+    'Punchline',
     'Description',
+    'Changelog',
     'InternalName',
     'AssemblyVersion',
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
     'DalamudApiLevel',
+    'IconUrl',
+    'ImageUrls',
 ]
 
 def main():

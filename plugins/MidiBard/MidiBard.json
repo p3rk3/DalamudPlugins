@@ -2,16 +2,17 @@
   "Author": "akira0245",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.5.1.1",
-  "Description": "Bard Performance using midi files.",
+  "AssemblyVersion": "1.6.0.0",
+  "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/MidiBard",
   "Tags": [
-    "bard",
-    "midi",
-    "akira0245",
-    "akira"
+    "akira",
+    "perform",
+    "instrument"
   ],
-  "DalamudApiLevel": 3,
-  "LoadPriority": 0
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
+  "Punchline": "Bard performance using midi files."
 }
