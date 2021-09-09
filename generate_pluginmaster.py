@@ -109,7 +109,7 @@ def update_md(master):
     with codecs.open('mdtemplate.txt', 'r', 'utf8') as mdt:
         md = mdt.read()
         for plugin in master:
-            desc = plugin.get('Description', '')
+            desc = plugin.get('Punchline', '')
             desc = desc.replace('\n', '<br>')
             md += f"\n| {plugin['Name']} | {plugin['Author']} | {desc} |"
         with codecs.open('plugins.md', 'w', 'utf8') as f:
