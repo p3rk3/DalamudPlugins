@@ -5,4 +5,4 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
-| MidiBard | akira0245 |  |
+| MidiBard | akira0245 | Bard performance using midi files. |

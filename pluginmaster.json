@@ -5,7 +5,7 @@
         "Punchline": "Bard performance using midi files.",
         "Description": "",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.6.0.0",
+        "AssemblyVersion": "1.6.0.1",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631143807"
+        "LastUpdated": "1631145962"
     }
 ]
