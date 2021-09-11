@@ -5,4 +5,5 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
+| SmartCast | akira0245 | Cast ground target actions with 1 click. |
 | MidiBard | akira0245 | Bard performance using midi files. |
