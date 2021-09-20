@@ -1,6 +1,30 @@
 [
     {
         "Author": "akira0245",
+        "Name": "MidiBard",
+        "Punchline": "Bard performance using midi files.",
+        "Description": "",
+        "InternalName": "MidiBard",
+        "AssemblyVersion": "1.6.1.0",
+        "RepoUrl": "https://github.com/akira0245/MidiBard",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "perform",
+            "instrument"
+        ],
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1632040051"
+    },
+    {
+        "Author": "akira0245",
         "Name": "SmartCast",
         "Punchline": "Cast ground target actions with 1 click.",
         "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\uff0c\u5e76\u5c06\u6280\u80fd\u5b8f\u63d2\u5165\u65bd\u6cd5\u961f\u5217\u4e2d\u3002\n- Cast ground target action with 1 click.\n- Put \"/ac\" commands/macro into action queue.\n- Auto dismount when using actions.",
@@ -24,30 +48,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631624391"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "MidiBard",
-        "Punchline": "Bard performance using midi files.",
-        "Description": "",
-        "InternalName": "MidiBard",
-        "AssemblyVersion": "1.6.1.0",
-        "RepoUrl": "https://github.com/akira0245/MidiBard",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "perform",
-            "instrument"
-        ],
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1631624391"
+        "LastUpdated": "1632040051"
     }
 ]
