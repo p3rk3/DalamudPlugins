@@ -8,6 +8,6 @@
 | Radar | akira0245 | Displays game objects location on screen and map. |
 | LootMaster | akira0245 | Roll loots via text command. |
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
-| MidiBard | akira0245 | Bard performance using midi files. |
+| MidiBard | akira0245 | 使用MIDI文件或MIDI键盘进行诗人演奏。<br>Bard performance using midi files or midi keyboard. |
 | SmartCast | akira0245 | Cast ground target actions with 1 click. |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
