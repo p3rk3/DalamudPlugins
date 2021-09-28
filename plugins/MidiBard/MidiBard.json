@@ -3,7 +3,7 @@
   "Name": "MidiBard",
   "InternalName": "MidiBard",
   "AssemblyVersion": "1.7.0.0",
-  "Description": "",
+  "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or midi keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip or switching",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/MidiBard",
   "Tags": [
@@ -14,5 +14,5 @@
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
   "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
-  "Punchline": "Bard performance using midi files."
+  "Punchline": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or midi keyboard."
 }
