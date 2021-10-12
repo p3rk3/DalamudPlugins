@@ -20,55 +20,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633402810"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "LootMaster",
-        "Punchline": "Roll loots via text command.",
-        "Description": "\u4f7f\u7528\u6587\u672c\u6307\u4ee4\u5bf9\u6218\u5229\u54c1\u63b7\u9ab0\u3002\nRoll loots via text command.",
-        "InternalName": "LootMaster",
-        "AssemblyVersion": "1.0.2.0",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "loot",
-            "roll"
-        ],
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1633402810"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "EasyZoom",
-        "Punchline": "Easy zoom distance unlock and fov control.",
-        "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
-        "InternalName": "EasyZoom",
-        "AssemblyVersion": "1.1.0.0",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "cam",
-            "fov",
-            "akira"
-        ],
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1633402810"
+        "LastUpdated": "1634078919"
     },
     {
         "Author": "akira0245",
@@ -92,7 +44,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633402810"
+        "LastUpdated": "1634078919"
     },
     {
         "Author": "akira0245",
@@ -118,7 +70,31 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633402810"
+        "LastUpdated": "1634078919"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "EasyZoom",
+        "Punchline": "Easy zoom distance unlock and fov control.",
+        "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
+        "InternalName": "EasyZoom",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "cam",
+            "fov",
+            "akira"
+        ],
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1634078919"
     },
     {
         "Author": "akira0245",
@@ -138,6 +114,30 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633402810"
+        "LastUpdated": "1634078919"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "LootMaster",
+        "Punchline": "Roll loots via text command.",
+        "Description": "\u4f7f\u7528\u6587\u672c\u6307\u4ee4\u5bf9\u6218\u5229\u54c1\u63b7\u9ab0\u3002\nRoll loots via text command.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "1.0.2.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "loot",
+            "roll"
+        ],
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1634078919"
     }
 ]
