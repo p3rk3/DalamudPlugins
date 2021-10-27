@@ -1,0 +1,22 @@
+{
+  "Author": "akira0245",
+  "Name": "DalamudCNAdapter",
+  "InternalName": "DalamudCNAdapter",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "akira",
+    "font",
+    "text",
+    "fix",
+    "command",
+    "chinese",
+    "cn"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Add Chinese font/command support for dalamud global version."
+}
