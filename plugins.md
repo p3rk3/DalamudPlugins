@@ -5,6 +5,7 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
+| DalamudCNAdapter | akira0245 | Add Chinese font/command support for dalamud global version. |
 | Radar | akira0245 | Displays game objects location on screen and map. |
 | MidiBard | akira0245 | Bard performance using midi files or keyboard. |
 | SmartCast | akira0245 | Cast ground target actions with 1 click. |
