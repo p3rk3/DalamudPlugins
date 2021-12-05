@@ -5,10 +5,10 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
-| DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
-| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
 | SmartCast | akira0245 | Cast ground target actions with 1 click. |
-| LootMaster | akira0245 | Roll loots via text command. |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
-| Radar | akira0245 | Displays game objects location on screen and map. |
 | MidiBard | akira0245 | Bard performance using midi files or keyboard. |
+| DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
+| LootMaster | akira0245 | Roll loots via text command. |
+| Radar | akira0245 | Displays game objects location on screen and map. |
+| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
