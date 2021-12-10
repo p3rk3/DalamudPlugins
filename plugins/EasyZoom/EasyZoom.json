@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "EasyZoom",
   "InternalName": "EasyZoom",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.0.1",
   "Description": "解锁并调整视距和视角。\nEasy zoom distance unlock and fov control.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
@@ -11,7 +11,7 @@
     "fov",
     "akira"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
   "Punchline": "Easy zoom distance unlock and fov control."
