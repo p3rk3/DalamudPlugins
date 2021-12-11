@@ -6,6 +6,7 @@
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
 | SmartCast | akira0245 | Cast ground target actions with 1 click. |
+| SmartCast(Endwalker) | akira0245, Tsubasahane | Cast ground target actions with 1 click. |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
 | MidiBard | akira0245 | Bard performance using midi files or keyboard. |
 | DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
