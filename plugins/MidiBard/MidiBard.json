@@ -3,9 +3,9 @@
   "Name": "MidiBard",
   "InternalName": "MidiBard",
   "AssemblyVersion": "1.9.2.9",
-  "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
+  "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/akira0245/MidiBard",
+  "RepoUrl": "https://github.com/p3rk3/MidiBard",
   "Tags": [
     "akira",
     "perform",
