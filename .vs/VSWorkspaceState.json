@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\plugins",
+    "\\plugins\\MidiBard"
+  ],
+  "SelectedNode": "\\plugins\\MidiBard",
+  "PreviewInSolutionExplorer": false
+}
