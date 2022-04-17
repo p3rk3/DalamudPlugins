@@ -1,8 +1,8 @@
 {
-  "Author": "p3rk3",
-  "Name": "LeanMidiBard",
+  "Author": "akira0245",
+  "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.9.3.1",
+  "AssemblyVersion": "1.9.3.0",
   "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/p3rk3/MidiBard",
@@ -14,5 +14,5 @@
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
-  "Punchline": "A fork of akira0245's MidiBard. Bard performance using midi files or keyboard."
+  "Punchline": "Bard performance using midi files or keyboard."
 }
