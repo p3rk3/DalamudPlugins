@@ -11,7 +11,7 @@
     "perform",
     "instrument"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
   "Punchline": "A fork of akira0245's MidiBard. Bard performance using midi files or keyboard."
