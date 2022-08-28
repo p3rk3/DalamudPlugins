@@ -5,7 +5,7 @@
         "Punchline": "MidiBard fork with cloud support.",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.12.0.0",
+        "AssemblyVersion": "1.12.0.1",
         "RepoUrl": "https://github.com/p3rk3/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
@@ -13,7 +13,7 @@
             "lean",
             "perform"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
         "DownloadLinkInstall": "https://github.com/p3rk3/DalamudPlugins/raw/api6/plugins/MidiBard/latest.zip",
         "IsHide": false,
