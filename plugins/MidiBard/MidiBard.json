@@ -2,7 +2,7 @@
   "Author": "akira0245, modified by p3rk3",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.12.0.0",
+  "AssemblyVersion": "1.12.0.1",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/p3rk3/MidiBard",
@@ -15,7 +15,7 @@
     "utility",
     "other"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
   "Punchline": "Bard performance using midi files or keyboard."
