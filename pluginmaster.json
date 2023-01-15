@@ -1,26 +1,26 @@
 [
-    {
-        "Author": "akira0245, modified by p3rk3",
-        "Name": "LeanMidiBard",
-        "Punchline": "MidiBard fork with cloud support.",
-        "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
-        "InternalName": "MidiBard",
-        "AssemblyVersion": "1.12.0.1",
-        "RepoUrl": "https://github.com/p3rk3/MidiBard",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "p3rk3",
-            "lean",
-            "perform"
-        ],
-        "DalamudApiLevel": 7,
-        "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
-        "DownloadLinkInstall": "https://github.com/p3rk3/DalamudPlugins/raw/api6/plugins/MidiBard/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/p3rk3/DalamudPlugins/raw/api6/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/p3rk3/DalamudPlugins/raw/api6/plugins/MidiBard/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1639498340"
-    }
+  {
+    "Author": "akira0245, modified by p3rk3",
+    "Name": "LeanMidiBard",
+    "Punchline": "MidiBard fork with cloud support.",
+    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
+    "InternalName": "MidiBard",
+    "AssemblyVersion": "1.14.0.0",
+    "RepoUrl": "https://github.com/p3rk3/MidiBard",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "p3rk3",
+      "lean",
+      "perform"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://raw.githubusercontent.com/p3rk3/MidiBard/master/icon.png",
+    "DownloadLinkInstall": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1639498340"
+  }
 ]
