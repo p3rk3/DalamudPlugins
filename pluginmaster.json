@@ -5,7 +5,7 @@
     "Punchline": "MidiBard fork with cloud support.",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
     "InternalName": "MidiBard",
-    "AssemblyVersion": "1.15.0.16",
+    "AssemblyVersion": "1.16.0.0",
     "RepoUrl": "https://github.com/p3rk3/MidiBard",
     "ApplicableVersion": "any",
     "Tags": [
@@ -13,7 +13,7 @@
       "lean",
       "perform"
     ],
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "IconUrl": "https://raw.githubusercontent.com/p3rk3/MidiBard/master/icon.png",
     "DownloadLinkInstall": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
     "IsHide": false,
@@ -21,6 +21,6 @@
     "DownloadLinkTesting": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
     "DownloadLinkUpdate": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1639498340"
+    "LastUpdated": "1697321901"
   }
 ]
