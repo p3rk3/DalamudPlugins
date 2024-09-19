@@ -1,26 +1,27 @@
 {
-  "Author": "akira0245, modified by p3rk3",
-  "Name": "MidiBard",
-  "InternalName": "MidiBard",
-  "AssemblyVersion": "1.15.0.0",
-  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
+  "Author": "akira0245, Ori, p3rk3",
+  "Name": "LeanMidiBard",
+  "InternalName": "MidiBard2",
+  "AssemblyVersion": "2.6.1.0",
+  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/p3rk3/MidiBard",
   "Tags": [
-    "p3rk3",
-    "perform",
-    "instrument"
-  ],
-  "CategoryTags": [
+    "music",
     "utility",
-    "other"
+    "midi",
+    "bard"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/akira0245/MidiBard/master/icon.png",
+  "ImageUrls": [
+    "https://i.imgur.com/1R13XF0.png"
+  ],
+  "IconUrl": "https://i.imgur.com/OSxqew4.png",
   "Punchline": "Bard performance using midi files or keyboard.",
-  "AcceptsFeedback": true
+  "Changelog": "Dawntrail Update.",
+  "AcceptsFeedback": false
 }
