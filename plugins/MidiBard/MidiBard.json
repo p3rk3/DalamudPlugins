@@ -1,7 +1,7 @@
 {
   "Author": "akira0245, Ori, p3rk3",
   "Name": "LeanMidiBard",
-  "InternalName": "MidiBard2",
+  "InternalName": "MidiBard",
   "AssemblyVersion": "2.6.1.0",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
