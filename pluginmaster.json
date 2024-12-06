@@ -1,19 +1,15 @@
 [
   {
-    "Author": "akira0245, modified by p3rk3",
+    "Author": "akira0245, Ori, p3rk3",
     "Name": "LeanMidiBard",
     "Punchline": "MidiBard fork with cloud support.",
-    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Basic cloud integration",
+    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Cloud sync between players",
     "InternalName": "MidiBard",
-    "AssemblyVersion": "1.16.1.1",
+    "AssemblyVersion": "2.6.2.0",
     "RepoUrl": "https://github.com/p3rk3/MidiBard",
     "ApplicableVersion": "any",
-    "Tags": [
-      "p3rk3",
-      "lean",
-      "perform"
-    ],
-    "DalamudApiLevel": 9,
+    "Tags": [ "music", "utility", "midi", "bard" ],
+    "DalamudApiLevel": 11,
     "IconUrl": "https://raw.githubusercontent.com/p3rk3/MidiBard/master/icon.png",
     "DownloadLinkInstall": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
     "IsHide": false,
@@ -21,6 +17,6 @@
     "DownloadLinkTesting": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
     "DownloadLinkUpdate": "https://github.com/p3rk3/DalamudPlugins/raw/master/plugins/MidiBard/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1697321901"
+    "LastUpdated": "1720468708"
   }
 ]
