@@ -1,9 +1,9 @@
 {
   "Author": "akira0245, Ori, p3rk3",
   "Name": "LeanMidiBard",
-  "InternalName": "MidiBard2",
-  "AssemblyVersion": "2.6.1.0",
-  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
+  "InternalName": "MidiBard",
+  "AssemblyVersion": "2.6.2.0",
+  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\n- Cloud sync between players",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/p3rk3/MidiBard",
   "Tags": [
@@ -12,7 +12,7 @@
     "midi",
     "bard"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
